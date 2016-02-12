@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="paxtonpoole.flue0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Information"
+            android:label="@string/title_activity_influenza_map" >
+        </activity>
+        <activity
+            android:name=".KeyFactsAboutInfluenza"
+            android:label="@string/title_activity_how_to_treat_influenza" >
+        </activity>
+        <activity
+            android:name=".ExcellentReq"
+            android:label="@string/title_activity_excellent_req" >
+        </activity>
+        <activity
+            android:name=".GoodReq"
+            android:label="@string/title_activity_good_req" >
+        </activity>
+        <activity
+            android:name=".AverageReq"
+            android:label="@string/title_activity_average_req" >
+        </activity>
+        <activity
+            android:name=".PoorReq"
+            android:label="@string/title_activity_poor_req" >
+        </activity>
+        <activity
+            android:name=".TerribleReq"
+            android:label="@string/title_activity_terrible_req" >
+        </activity>
+    </application>
+
+</manifest>

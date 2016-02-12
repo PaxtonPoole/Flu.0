@@ -1,0 +1,159 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        tools:context=".MainActivity"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="Flu.0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="50dp"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:id="@+id/infoButton"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView"
+            android:layout_marginTop="30dp"
+            android:background="#deff0000"
+            android:text="Information"
+            android:textSize="20dp"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:id="@+id/keyButton"
+            android:layout_width="370dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="#deff0000"
+            android:text="Key Facts About Influenza"
+            android:textSize="20dp"
+            android:layout_below="@+id/infoButton"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/influenzaPercent"
+            android:layout_width="34dp"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="#010101"
+            android:text="Wait until 2/2/2016 to report your health."
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@+id/update"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/keyButton" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="1"
+            android:id="@+id/oneButton"
+            android:layout_below="@+id/keyButton"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:id="@+id/twoButton"
+            android:layout_below="@+id/oneButton"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3"
+            android:id="@+id/threeButton"
+            android:layout_below="@+id/twoButton"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4"
+            android:id="@+id/fourButton"
+            android:layout_below="@+id/threeButton"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5"
+            android:id="@+id/fiveButton"
+            android:layout_below="@+id/fourButton"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Update"
+            android:id="@+id/update"
+            android:layout_below="@+id/fiveButton"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Excellent"
+            android:id="@+id/excellentButton"
+            android:layout_above="@+id/twoButton"
+            android:layout_alignStart="@+id/textView" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Good"
+            android:id="@+id/goodButton"
+            android:layout_alignBottom="@+id/twoButton"
+            android:layout_alignStart="@+id/textView"
+            android:layout_alignEnd="@+id/excellentButton" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fair"
+            android:id="@+id/averageButton"
+            android:layout_above="@+id/fourButton"
+            android:layout_alignStart="@+id/goodButton"
+            android:layout_alignEnd="@+id/goodButton" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Poor"
+            android:id="@+id/poorButton"
+            android:layout_above="@+id/fiveButton"
+            android:layout_alignStart="@+id/averageButton"
+            android:layout_alignEnd="@+id/averageButton" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Terrible"
+            android:id="@+id/terribleButton"
+            android:layout_above="@+id/update"
+            android:layout_alignStart="@+id/poorButton"
+            android:layout_alignEnd="@+id/poorButton" />
+
+    </RelativeLayout>
+</ScrollView>

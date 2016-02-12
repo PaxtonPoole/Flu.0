@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Flu.0</string>
+
+    <string name="warningSignsOfInfluenza">Influenza (also known as the flu) is a contagious respiratory illness caused by flu viruses. It can cause mild to severe illness, and at times can lead to death. The flu is different from a cold. The flu usually comes on suddenly. People who have the flu often feel some or all of these symptoms:
+
+Fever* or feeling feverish/chills
+Cough
+Sore throat
+Runny or stuffy nose
+Muscle or body aches
+Headaches
+Fatigue (tiredness)
+Some people may have vomiting and diarrhea, though this is more common in children than adults.
+* It\'s important to note that not everyone with flu will have a fever.</string>
+
+    <string name="keyFactsAboutInfluenza">What is influenza (also called flu)?
+
+The flu is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and lungs. It can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year.
+
+Signs and symptoms of flu:
+
+People who have the flu often feel some or all of these signs and symptoms:
+
+Fever* or feeling feverish/chills,
+Cough,
+Sore throat,
+Runny or stuffy nose,
+Muscle or body aches,
+Headaches,
+Fatigue (very tired),
+Some people may have vomiting and diarrhea, though this is more common in children than adults.
+*It’s important to note that not everyone with flu will have a fever.
+
+How flu spreads:
+
+Most experts believe that flu viruses spread mainly by droplets made when people with flu cough, sneeze or talk. These droplets can land in the mouths or noses of people who are nearby. Less often, a person might also get flu by touching a surface or object that has flu virus on it and then touching their own mouth, eyes or possibly their nose.
+
+
+Period of contagiousness:
+
+You may be able to pass on the flu to someone else before you know you are sick, as well as while you are sick. Most healthy adults may be able to infect others beginning 1 day before symptoms develop and up to 5 to 7 days after becoming sick. Some people, especially young children and people with weakened immune systems, might be able to infect others for an even longer time.
+
+How serious is the flu?
+
+Flu is unpredictable and how severe it is can vary widely from one season to the next depending on many things, including:
+
+what flu viruses are spreading,
+how much flu vaccine is available,
+when vaccine is available,
+how many people get vaccinated, and
+how well the flu vaccine is matched to flu viruses that are causing illness.
+Certain people are at greater risk for serious complications if they get the flu. This includes older people, young children, pregnant women and people with certain health conditions (such as asthma, diabetes, or heart disease).
+
+Flu seasons are unpredictable and can be severe. Over a period of 30 years, between 1976 and 2006, estimates of flu-associated deaths in the United States range from a low of about 3,000 to a high of about 49,000 people.
+
+
+Complications of flu:
+
+Complications of flu can include bacterial pneumonia, ear infections, sinus infections, dehydration, and worsening of chronic medical conditions, such as congestive heart failure, asthma, or diabetes.
+
+Prevent seasonal flu: Get vaccinated.
+
+The single best way to prevent the flu is to get a flu vaccine each season.
+
+There are several flu vaccine options for the 2015-2016 flu season.
+
+Traditional flu vaccines made to protect against three different flu viruses (called “trivalent” vaccines) are available. In addition, flu vaccines made to protect against four different flu viruses (called “quadrivalent” vaccines) also are available.
+
+Trivalent flu vaccine protects against two influenza A viruses (an H1N1 and an H3N2) and an influenza B virus. The following trivalent flu vaccines are available:
+
+Standard-dose trivalent shots that are manufactured using virus grown in eggs. There are several different flu shots of this type available, and they are approved for people of different ages. Some are approved for use in people as young as 6 months of age. Most flu shots are given with a needle. One standard dose trivalent shot also can be given with a jet injector, for persons aged 18 through 64 years.
+A high-dose trivalent shot, approved for people 65 and older.
+A trivalent shot containing virus grown in cell culture, which is approved for people 18 and older.
+A recombinant trivalent shot that is egg-free, approved for people 18 years and older.
+The quadrivalent flu vaccine protects against two influenza A viruses and two influenza B viruses. The following quadrivalent flu vaccines are available:
+
+A quadrivalent flu shot that is manufactured using virus grown in eggs. There are several different flu shots of this type available, and they are approved for people of different ages. Some are approved for use in people as young as 6 months of age.
+An intradermal quadrivalent shot, which is injected into the skin instead of the muscle and uses a much smaller needle than the regular flu shot. It is approved for people 18 through 64 years of age.
+A quadrivalent nasal spray vaccine, approved for people 2 through 49 years of age.
+When to get vaccinated against seasonal flu:
+
+Yearly flu vaccination should begin soon after flu vaccine is available, and ideally by October. However, getting vaccinated even later can be protective, as long as flu viruses are circulating. While seasonal influenza outbreaks can happen as early as October, most of the time influenza activity peaks in January or later. Since it takes about two weeks after vaccination for antibodies to develop in the body that protect against influenza virus infection, it is best that people get vaccinated so they are protected before influenza begins spreading in their community.
+
+
+
+
+Who Should Get Vaccinated This Season?
+
+Everyone 6 months of age and older should get a flu vaccine every season. This recommendation has been in place since February 24, 2010 when CDC’s Advisory Committee on Immunization Practices (ACIP) voted for “universal” flu vaccination in the United States to expand protection against the flu to more people.
+
+Vaccination to prevent influenza is particularly important for people who are at high risk of serious complications from influenza.
+
+Use of the nasal spray seasonal flu vaccine:
+
+Vaccination with the nasal-spray flu vaccine is an option for healthy* people 2 to 49 years of age who are not pregnant. Even people who live with or care for those in a high risk group (including health care workers) can get the nasal-spray flu vaccine as long as they are healthy themselves and are not pregnant. The one exception is health care workers who care for people with severely weakened immune systems who require a protected hospital environment; these people should get the inactivated flu vaccine (flu shot).
+
+Who should not be vaccinated against seasonal flu?
+
+Different flu vaccines are approved for use in different groups of people. Factors that can determine a person\'s suitability for vaccination, or vaccination with a particular vaccine, include a person\'s age, health (current and past) and any relevant allergies, including an egg allergy.
+        (All of this information was taken directly from the CDC website on Influenza)</string>
+    <string name="information">My name is Paxton, and I am the creator of this application. I am a  Camdenton High School
+        student performing a science research project on tracking influenza like illnesses (ILI\'s). Flu.0 is a concept based app that allows people to report in
+        how severe of ILI symptoms that they have that week on a scale from 1-5 (Press the buttons next to their corresponding number for more information).
+        One being the lowest or completely healthy, and five being the
+        highest or very sick. Whenever they report in, they can only report in once a week during a pre-determined day. This creates more accurate results. The app is currently only designed for Camden County. The reason for this is that I
+        wouldn\'t be able to collect enough data to provide an accurate result for other areas outside of Camden County.
+        The goal of this project is to identify the average health condition of people in Camden County Missouri.
+        In the future, people would be able to select which county they live in and report for their county. People
+        would then be able to look at the health ratings of other counties. People would look at the other health
+        ratings to determine things such as moving locations, vacation spots, and even where to send their kids for school.
+    </string>
+    <string name="quiz"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_influenza_map">Information</string>
+    <string name="title_activity_how_to_treat_influenza">Key Facts About Influenza</string>
+    <string name="title_activity_warning_signs_of_influenza">Warning Signs Of Influenza</string>
+    <string name="title_activity_influenza_quiz">Influenza Quiz</string>
+    <string name="title_activity_excellent_req">Excellent Condition</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_good_req">Good Condition</string>
+    <string name="title_activity_average_req">Fair Condition</string>
+    <string name="title_activity_poor_req">Poor Condition</string>
+    <string name="title_activity_terrible_req">Terrible Condition</string>
+    <string name="excellentCondition">If you are in excellent condition then you have no visual symptoms of the flu, and you feel just fine.</string>
+    <string name="goodCondition">If you are in a good condition, then you might have some minimal symptoms. These symptoms can include mild fatigue, occasionally slightly clogged nasal passages, and occasional muscle aches. </string>
+    <string name="fairCondition">If you are in a fair condition, then you might have some mild symptoms. These may include nasal congestion, a light cough, fatigue, weakness, and occasional muscle aches.</string>
+    <string name="poorCondition">If you are in a poor condition, then you might have some mild to severe symptoms. These symptoms may include nasal congestion, a cough, fatigue, weakness, muscle aches, sore throat, slight nausea, and a mild headache.</string>
+    <string name="terribleCondition">If you are in a terrible condition, then you will probably have some severe symptoms. These symptoms may include nasal congestion, a dry cough, heavy fatigue, weakness, muscle aches, sore throat, nausea, a fever that is greater than or equal to 100°F (37.8°C), and a headache.</string>
+</resources>
